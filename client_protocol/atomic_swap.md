@@ -11,7 +11,7 @@ A and B want to swap the asset and 19 BAN.
 
 ### 0) Setup
 
-* A and B shares all blocks from `meta_ledger_protocol/atomic_swap.md`, unsigned, with each other and proceed if they both agree to the trade.
+* A and B shares all blocks from `ledger_protocol/atomic_swap.md`, unsigned, with each other and proceed if they both agree to the trade.
 
 ----
 
